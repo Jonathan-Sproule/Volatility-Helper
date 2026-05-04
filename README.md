@@ -202,7 +202,7 @@ Contributions are welcome! Feel free to:
 
 ## Author
 
-Created for digital forensics and incident response workflows.
+Created by J.S with the help of AI for digital forensics and incident response workflows.
 
 ## Acknowledgments
 
